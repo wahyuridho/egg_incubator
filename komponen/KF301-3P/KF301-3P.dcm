@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KF301-3P
+D Terminal Block 5mm Pitch 3 Poles
+K
+F http://www.handsontec.com/dataspecs/terminal%20block-5mm.pdf
+$ENDCMP
+#
+#End Doc Library

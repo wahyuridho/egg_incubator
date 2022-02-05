@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "282834-3")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/282834-3/282834-3.lib")(options "")(descr ""))
+  (lib (name "JQC-3F-1C-24VDC")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/JQC-3F-1C-24VDC/JQC-3F-1C-24VDC.lib")(options "")(descr ""))
+  (lib (name "L7805CV")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/L7805CV/L7805CV.lib")(options "")(descr ""))
+)

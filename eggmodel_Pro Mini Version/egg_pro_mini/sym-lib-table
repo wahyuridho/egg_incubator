@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "arduino_proMini")(type "KiCad")(uri "F:/Projek Penetas Ayam/PCB/Pro Mini Version/Komponen/arduino_proMini.kicad_sym")(options "")(descr ""))
+  (lib (name "282834-3")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/282834-3/282834-3.lib")(options "")(descr ""))
+  (lib (name "JQC-3F-1C-24VDC")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/JQC-3F-1C-24VDC/JQC-3F-1C-24VDC.lib")(options "")(descr ""))
+  (lib (name "KF301-3P")(type "Legacy")(uri "F:/Projek Penetas Ayam/PCB/komponen/KF301-3P/KF301-3P.lib")(options "")(descr ""))
+)

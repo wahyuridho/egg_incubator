@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "282834-3")(type "KiCad")(uri "F:/Projek Penetas Ayam/PCB/komponen/282834-3")(options "")(descr ""))
+  (lib (name "JQC-3F-1C-24VDC")(type "KiCad")(uri "F:/Projek Penetas Ayam/PCB/komponen/JQC-3F-1C-24VDC")(options "")(descr ""))
+  (lib (name "L7805CV")(type "KiCad")(uri "F:/Projek Penetas Ayam/PCB/komponen/L7805CV")(options "")(descr ""))
+)
