@@ -16,3 +16,5 @@ alat & bahan
 12. IC L7805
 
 Anda bisa melihat untuk komponen yang digunakan dengan melihat tampilan 3D dari Kicad
+
+note : untuk komponen yang tidak muncul 3D design nya bisa dicari pada folder 3D Model
